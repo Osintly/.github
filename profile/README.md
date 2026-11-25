@@ -1,26 +1,40 @@
+<br>
+
 <p align="center">
-  <img width="250" src="https://cdn.brandfetch.io/id3zBWbS3v/w/3888/h/1156/idXMKM5dFp.png?c=1bxid64Mup7aczewSAYMX&t=1777510262758" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.svg">
+    <img alt="Osintly" width="220" src="./assets/wordmark-light.svg">
+  </picture>
 </p>
+
 <p align="center">
   One workspace for every OSINT investigation.
 </p>
 
+<p align="center">
+  <a href="https://osint.ly"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://docs.osint.ly"><b>Documentation</b></a> &nbsp;·&nbsp;
+  <a href="https://osint.ly/api/pricing"><b>API</b></a> &nbsp;·&nbsp;
+  <a href="https://discord.com/invite/osintly"><b>Discord</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/osintly"><b>X</b></a>
+</p>
 
-## What is Osintly?
+<br>
 
-[Osintly](https://osint.ly) is a **unified OSINT platform**. Instead of juggling a dozen separate tools, you search across pseudonyms, emails, phone numbers, IPs, domains, and crypto addresses from a **single workspace**, and get enriched, correlated results in real time.
-**Built for investigators, researchers, and security professionals who need reliable intelligence, fast.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sources-dark.png">
+  <img alt="Instagram, GitHub, Discord, Reddit and other sources Osintly searches" src="./assets/sources-light.png">
+</picture>
 
-## About This Organization
+<br>
 
-This organization is dedicated to the **development and publication of SDKs** for the Osintly API. Our goal is to provide developers with the tools needed to integrate Osintly's OSINT capabilities directly into their applications and workflows.
+Search a username, email, phone number, IP address, domain or crypto address, and Osintly checks **13,000+ public sources** at once. Every account and record it finds is linked to its source, so you can verify it yourself.
 
-> [!IMPORTANT]  
-> The API is documented but **not yet available for purchase.**
-> 
-## Support
+This organization hosts the [documentation](https://github.com/Osintly/Documentation) behind [docs.osint.ly](https://docs.osint.ly). The SDKs for the [Osintly API](https://docs.osint.ly/api-reference/introduction) will be published here.
 
-For support, email contact@osint.ly or [osint.ly/support](https://osint.ly/support).
+> [!TIP]
+> Use Osintly from ChatGPT, Claude or Codex: add `https://mcp.osint.ly/mcp` as a custom connector. [How to connect](https://docs.osint.ly/assistants/connect)
 
----
-*Osintly — Your gateway to open-source intelligence.*
+<p align="center">
+  <sub>Questions? <a href="mailto:contact@osint.ly">contact@osint.ly</a> · <a href="https://osint.ly/support">osint.ly/support</a></sub>
+</p>
